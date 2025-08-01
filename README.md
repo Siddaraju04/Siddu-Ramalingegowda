@@ -1,4 +1,3 @@
-![logo](https://github.com/Siddaraju04/Siddu-Ramalingegowda/blob/main/technical-banner-design-for-software-engineer-profile-vector.jpg)
 <h1 align="center">Hi 👋, I'm Siddaraju.B.R</h1>
 <h3 align="center">Aspiring Front End Web Developer And Passionate About Data Science from India</h3>
 
